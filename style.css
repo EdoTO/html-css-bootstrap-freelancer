@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-header {
+    background-color: #2C3E50;
+    color: white;
+}
+
+.main-header {
+    min-height: 90px;
+}
+
+#jumbo {
+    min-height: 590px;
+    background-color: #1ABC9C;
+    text-align: center;
+}
+
+.portfolio__card {
+    min-height: 260px;
+    background-color: #ddd;
+    border-radius: 5px;
+}
